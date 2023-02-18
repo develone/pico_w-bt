@@ -1,0 +1,121 @@
+I removed many of the pico-examples in the top CMakeLists.txt.
+Using a local pico-sdk instead of the pico-sdk located in ~/sdk/pico-sdk.
+In the .bashrc sets export PICO_SDK_PATH=/home/devel/sdk/pico-sdk
+This needs to be overridden with export PICO_SDK_PATH=/home/devel/xx/pico_w-bt/pico-sdk
+
+Trying to put the ~/sdk/pico-sdk/lib/btstack/example folder where it can be modified.
+
+git clone git clone git@github.com:develone/pico_w-bt.git
+
+cd pico_w-bt
+
+mkdir build
+
+git clone git@github.com:develone/pico-sdk.git
+
+cd pico-sdk
+
+git submodule update --init
+Submodule 'lib/btstack' (https://github.com/bluekitchen/btstack.git) registered for path 'lib/btstack'
+Submodule 'lib/cyw43-driver' (https://github.com/georgerobotics/cyw43-driver.git) registered for path 'lib/cyw43-driver'
+Submodule 'lib/lwip' (https://github.com/lwip-tcpip/lwip.git) registered for path 'lib/lwip'
+Submodule 'lib/mbedtls' (https://github.com/Mbed-TLS/mbedtls.git) registered for path 'lib/mbedtls'
+Submodule 'tinyusb' (https://github.com/hathach/tinyusb.git) registered for path 'lib/tinyusb'
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/btstack'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/cyw43-driver'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/lwip'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/mbedtls'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/tinyusb'...
+Submodule path 'lib/btstack': checked out '0d212321a995ed2f9a80988f73ede854c7ad23b8'
+Submodule path 'lib/cyw43-driver': checked out '9bfca61173a94432839cd39210f1d1afdf602c42'
+Submodule path 'lib/lwip': checked out '239918ccc173cb2c2a62f41a40fd893f57faf1d6'
+Submodule path 'lib/mbedtls': checked out 'a77287f8fa6b76f74984121fdafc8563147435c8'
+Submodule path 'lib/tinyusb': checked out '86c416d4c0fb38432460b3e11b08b9de76941bf5'
+
+pico_w-bt/pico-sdk/lib/btstack $ git diff
+diff --git a/example/spp_streamer.c b/example/spp_streamer.c
+index 12f139a92..19361c2ac 100644
+--- a/example/spp_streamer.c
++++ b/example/spp_streamer.c
+@@ -207,6 +207,7 @@ static void packet_handler (uint8_t packet_type, uint16_t channel, uint8_t *pack
+                     rfcomm_event_incoming_connection_get_bd_addr(packet, event_addr);
+                     rfcomm_channel_nr = rfcomm_event_incoming_connection_get_server_channel(packet);
+                     rfcomm_cid = rfcomm_event_incoming_connection_get_rfcomm_cid(packet);
++                    printf("test if this source of spp_streamer.c \n");
+                     printf("RFCOMM channel 0x%02x requested for %s\n", rfcomm_channel_nr, bd_addr_to_str(event_addr));
+                     rfcomm_accept_connection(rfcomm_cid);
+                                        break;
+
+cd ../
+
+cd build/
+
+        modified:   ../pico_w/bt/standalone/pw_ssid.h
+        modified:   ../pico_w/wifi/freertos/iperf/pw_ssid.h
+        modified:   ../pico_w/wifi/freertos/ping/pw_ssid.h
+        modified:   ../pico_w/wifi/iperf/pw_ssid.h
+        modified:   ../pico_w/wifi/ntp_client/pw_ssid.h
+        modified:   ../pico_w/wifi/tcp_client/pw_ssid.h
+        modified:   ../pico_w/wifi/tcp_server/pw_ssid.h
+        modified:   ../pico_w/wifi/tls_client/pw_ssid.h
+        modified:   ../pico_w/wifi/udp_beacon/pw_ssid.h
+
+export PICO_SDK_PATH=/home/devel/pico_w-bt/pico-sdk
+
+XDG_GREETER_DATA_DIR=/var/lib/lightdm/data/devel
+PICO_SDK_PATH=/home/devel/xx/pico_w-bt/pico-sdk
+HOME=/home/devel
+
+cmake -DPICO_BOARD=pico_w -DFREERTOS_KERNEL_PATH:PATH=/home/devel/FreeRTOS-Kernel ..
+
+test if this source of spp_streamer.c                                           
+RFCOMM channel 0x01 requested for 28:CD:C1:01:35:6B                             
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686  
+873000 bytes -> 290.709 kB/s  
+
+
+These 2 programs provide a connetion between 2 pico_w using bt.
+2 pairs were tested pi4-50  43:43:A2:12:1F:AC &  pi4-60  28:CD:C1:08:17:20
+pi4-50
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer/picow_bt_example_spp_streamer_background.elf verify reset exit"
+stops spp_streamer
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/hid_mouse_demo/picow_bt_example_hid_mouse_demo_background.elf verify reset exit"
+BTstack up and running on 43:43:A2:12:1F:AC.
+test if this source of spp_streamer.c 
+RFCOMM channel 0x01 requested for 28:CD:C1:08:17:20
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686
+607000 bytes -> 202.198 kB/s
+643000 bytes -> 214.047 kB/s
+726000 bytes -> 241.758 kB/s
+763000 bytes -> 254.248 kB/s
+786000 bytes -> 261.303 kB/s
+772000 bytes -> 257.161 kB/s
+552000 bytes -> 183.816 kB/s
+pi4-60
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer_client/picow_bt_example_spp_streamer_client_background.elf verify reset exit"
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686  
+502000 bytes -> 166.832 kB/s                                                    
+431000 bytes -> 142.809 kB/s                                                    
+501000 bytes -> 167.000 kB/s                                                    
+619000 bytes -> 206.333 kB/s                                                    
+624000 bytes -> 207.171 kB/s                                                    
+639000 bytes -> 212.929 kB/s                                                    
+667000 bytes -> 222.333 kB/s                                                    
+630000 bytes -> 208.816 kB/s                                                    
+RFCOMM channel closed
+
+2nd pair tested pi4-30  28:CD:C1:01:35:6F & pi4-20  28:CD:C1:01:35:6B
+pi4-30
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer/picow_bt_example_spp_streamer_background.elf verify reset exit"
+stops spp_streamer
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/hid_mouse_demo/picow_bt_example_hid_mouse_demo_background.elf verify reset exit"
+
+pi4-20
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer_client/picow_bt_example_spp_streamer_client_background.elf verify reset exit"
+
+
+pi4-20  28:CD:C1:01:35:6B
+pi4-30  28:CD:C1:01:35:6F
+pi4-50  43:43:A2:12:1F:AC
+pi4-60  28:CD:C1:08:17:20
+
