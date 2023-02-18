@@ -254,14 +254,15 @@ static void packet_handler (uint8_t packet_type, uint16_t channel, uint8_t *pack
                         
         case RFCOMM_DATA_PACKET:
             test_track_transferred(size);
-#if 0
+//#if 0
             // optional: print received data as ASCII text
+			int i;
             printf("RCV: '");
-            for (i=0;i<size;i++){
+            for (i=0;i<10;i++){
                 putchar(packet[i]);
             }
             printf("'\n");
-#endif
+//#endif
             break;
 
         default:
