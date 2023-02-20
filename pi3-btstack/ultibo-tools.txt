@@ -62,3 +62,15 @@ devel@pi4-42:~/Ultibo_Projects/jpeg2000/QEMU $ ./startqemu.sh
 
 see QEMU-jpeg2000-pi4-42.png
 
+devel@pi4-27:~ $ telnet pi4-42 6050
+Trying 2600:1700:69f0:42c0::a...
+Trying 2600:1700:69f0:42c0:c969:598a:e13c:9485...
+Trying 192.168.1.206...
+Connected to pi4-42.
+Escape character is '^]'.
+
+112345678901234567890123456789012:My Secret IV:My Extra Secret AAD:1The quick brown
+
+see QEMU-Crypto-Socke-pi4-42-b.png 
+
+
