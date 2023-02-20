@@ -1,0 +1,64 @@
+shasum ultiboinstaller.sh 
+e1a225cfccdf2114c783d70c19b84b7726d99de2  ultiboinstaller.sh
+
+
+./ultiboinstaller.sh
+
+git clone https://github.com/develone/Ultibo_Projects.git
+
+git clone https://github.com/develone/AraratSynapse.git
+
+
+sudo unsquashfs -d qemu-6.2.0-rpios qemu-6.2.0-rpios-32bit.img
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/QEMU $ git diff ~/.bashrc ~/.bashrc.orig
+diff --git a/home/devel/.bashrc b/home/devel/.bashrc.orig
+index e2f0d16..d715992 100644
+--- a/home/devel/.bashrc
++++ b/home/devel/.bashrc.orig
+@@ -111,7 +111,3 @@ if ! shopt -oq posix; then
+     . /etc/bash_completion
+   fi
+ fi
+-
+-export PATH="$HOME/.pyenv/bin:$HOME/local/openocd/bin:$HOME/qemu-6.2.0-rpios/bin:$PATH"
+
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/QEMU $ which qemu-system-arm
+/home/devel/qemu-6.2.0-rpios/bin/qemu-system-arm
+
+
+cd Ultibo_Projects/jpeg2000/src
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/src $ ./compile_ultibo.sh 
+The word count here should be 22
+the word count in /home/pi/jpeg-2000-test/bare-metal/openjp
+when ./libbuild.sh is executed should be 22
+ 22  22 182 libopenjp2_obj.txt
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/src $ ./compile_ultibo.sh 
+The word count here should be 22
+the word count in /home/pi/jpeg-2000-test/bare-metal/openjp
+when ./libbuild.sh is executed should be 22
+ 22  22 182 libopenjp2_obj.txt
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/src $ cd ../QEMU/
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/QEMU $ ./libbuild.sh 
+dwtlift.c: In function 'decompress':
+dwtlift.c:658:3: warning: implicit declaration of function 'octave_write_byte'; did you mean 'opj_write_tile'? [-Wimplicit-function-declaration]
+   octave_write_byte(r_decompress_fn,r_decompress,da_x1*da_y1);
+   ^~~~~~~~~~~~~~~~~
+   opj_write_tile
+when ./libbuild.sh is executed should be 23
+ 23  23 192 libdwtlift_obj.txt
+
+compile DWT_LIFT_QEMU.lpi using Lazarus IDE (Ulitibo Edition)
+
+ultibo/core/lazarus.sh
+
+
+devel@pi4-42:~/Ultibo_Projects/jpeg2000/QEMU $ ./startqemu.sh
+
+see QEMU-jpeg2000-pi4-42.png
+
