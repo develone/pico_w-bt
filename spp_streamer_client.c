@@ -193,7 +193,7 @@ static void spp_create_test_data(void){
 static void spp_send_packet(void){
     rfcomm_send(rfcomm_cid, (uint8_t*) test_data, spp_test_data_len);
 	printf("test in send spp_streamer_client.c \n");
-	printf("this file is being modified on 05/26/23\n");
+	printf("this file is being modified on 05/27/23\n");
 	printf("copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example\n");
 
     test_track_transferred(spp_test_data_len);

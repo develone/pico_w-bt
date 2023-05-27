@@ -209,7 +209,7 @@ static void packet_handler (uint8_t packet_type, uint16_t channel, uint8_t *pack
                     rfcomm_cid = rfcomm_event_incoming_connection_get_rfcomm_cid(packet);
                     printf("test if this source of spp_streamer.c \n");
                     printf("RFCOMM channel 0x%02x requested for %s\n", rfcomm_channel_nr, bd_addr_to_str(event_addr));
-					printf("this file is being modified on 05/26/23\n");
+					printf("this file is being modified on 05/27/23\n");
 					printf("copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example\n");
 
                     rfcomm_accept_connection(rfcomm_cid);
