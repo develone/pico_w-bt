@@ -1,0 +1,206 @@
+02/14/23 -02/19/23
+Trying to put the ~/sdk/pico-sdk/lib/btstack/example folder where it can be modified.
+This will require 2 pico_w-bt on system1 pi4-30 and 1 pico_w-br on system 2 pi4-20
+
+5/27/23
+pi4-30 & pi4-20
+cd xx
+
+git clone https://github.com/develone/pico_w-bt.git
+
+cd pico_w-bt
+
+devel@pi4-30:~/xx/pico_w-bt $ git log
+
+commit a94434a2b66fb3fe9542a40b7bd3eff31fb7e417 (HEAD -> master, origin/master, origin/HEAD)
+Author: Edward Vidal Jr <develone@sbcglobal.net>
+Date:   Sun Feb 19 17:56:36 2023 -0700
+
+    testing QEMU Ultibo_Projects/Crypto-Socket/QEMU
+
+ git clone https://github.com/develone/pico-sdk.git
+
+devel@pi4-30:~/xx/pico_w-bt/pico-sdk $ git log
+commit f396d05f8252d4670d4ea05c8b7ac938ef0cd381 (HEAD -> master, origin/master, origin/HEAD)
+Author: Graham Sanderson <graham.sanderson@raspberrypi.com>
+Date:   Sat Feb 11 16:54:33 2023 -0600
+
+    Actually target correct USB1.5.0 version - same code (#1245)
+
+commit 2ccab115de0d42d31d6611cca19ef0cd0d2ccaa7
+Author: graham sanderson <graham.sanderson@raspberrypi.com>
+Date:   Fri Feb 10 18:23:51 2023 -0600
+
+    release SDK 1.5.0
+
+cd pico-sdk/
+
+git submodule update --init
+Submodule 'lib/btstack' (https://github.com/bluekitchen/btstack.git) registered for path 'lib/btstack'
+Submodule 'lib/cyw43-driver' (https://github.com/georgerobotics/cyw43-driver.git) registered for path 'lib/cyw43-driver'
+Submodule 'lib/lwip' (https://github.com/lwip-tcpip/lwip.git) registered for path 'lib/lwip'
+Submodule 'lib/mbedtls' (https://github.com/Mbed-TLS/mbedtls.git) registered for path 'lib/mbedtls'
+Submodule 'tinyusb' (https://github.com/hathach/tinyusb.git) registered for path 'lib/tinyusb'
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/btstack'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/cyw43-driver'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/lwip'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/mbedtls'...
+Cloning into '/home/devel/xx/pico_w-bt/pico-sdk/lib/tinyusb'...
+Submodule path 'lib/btstack': checked out '0d212321a995ed2f9a80988f73ede854c7ad23b8'
+Submodule path 'lib/cyw43-driver': checked out '9bfca61173a94432839cd39210f1d1afdf602c42'
+Submodule path 'lib/lwip': checked out '239918ccc173cb2c2a62f41a40fd893f57faf1d6'
+Submodule path 'lib/mbedtls': checked out 'a77287f8fa6b76f74984121fdafc8563147435c8'
+Submodule path 'lib/tinyusb': checked out '86c416d4c0fb38432460b3e11b08b9de76941bf5
+
+devel@pi4-30:~/xx/pico_w-bt/pico-sdk/lib/btstack $ git log
+
+commit 0d212321a995ed2f9a80988f73ede854c7ad23b8 (HEAD)
+Author: Dirk Helbig <dirk@bluekitchen-gmbh.com>
+Date:   Tue Jan 31 14:47:16 2023 +0100
+
+    btstack_sample_rate_compensation: refactoring and documentation
+
+commit 555ade44f7e3f0d03187a4007b8751cfc3ae043a
+Author: Dirk Helbig <dirk@bluekitchen-gmbh.com>
+Date:   Tue Jan 31 14:38:20 2023 +0100
+
+    a2dp_sink_demo: add HAVE_BTSTACK_AUDIO_EFFECTIVE_SAMPLERATE
+
+devel@pi4-30:~/xx/pico_w-bt $ mkdir build
+
+devel@pi4-30:~/xx/pico_w-bt $ less .git/config
+
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = https://github.com/develone/pico_w-bt.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+        
+devel@pi4-30:~/xx/pico_w-bt $ cp spp_streamer.c spp_streamer_client.c pico-sdk/lib/btstack/example/
+
+devel@pi4-30:~/xx/pico_w-bt $ git status | less
+
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   pico_w/bt/standalone/pw_ssid.h
+        modified:   pico_w/wifi/freertos/iperf/pw_ssid.h
+        modified:   pico_w/wifi/freertos/ping/pw_ssid.h
+        modified:   pico_w/wifi/iperf/pw_ssid.h
+        modified:   pico_w/wifi/ntp_client/pw_ssid.h
+        modified:   pico_w/wifi/tcp_client/pw_ssid.h
+        modified:   pico_w/wifi/tcp_server/pw_ssid.h
+        modified:   pico_w/wifi/tls_client/pw_ssid.h
+        modified:   pico_w/wifi/udp_beacon/pw_ssid.h
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        pico-sdk/
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+cd build
+
+devel@pi4-30:~/xx/pico_w-bt/build $ export PICO_SDK_PATH=/home/devel/xx/pico_w-bt/pico-sdk
+
+devel@pi4-30:~/xx/pico_w-bt/build $ cmake -DPICO_BOARD=pico_w -DWIFI_SSID="ATTtpHTfPi" -DWIFI_PASSWORD="t?bqxvcqh#6t" -DFREERTOS_KERNEL_PATH:PATH=/home/devel/FreeRTOS-Kernel ..
+devel@pi4-30:~/xx/pico_w-bt/build $ cmake -DPICO_BOARD=pico_w -DFREERTOS_KERNEL_PATH:PATH=/home/devel/FreeRTOS-Kernel ..
+
+devel@pi4-30:~/xx/pico_w-bt/build $ make
+
+devel@pi4-30:~ $ cd ~/
+
+devel@pi4-30:~ $ git clone https://github.com/develone/pico_w-bt.git
+
+devel@pi4-30:~ $ less pico_w-bt/.git/config
+
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = https://github.com/develone/pico_w-bt.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+        
+devel@pi4-20:~ $ git clone https://github.com/develone/pico_w-bt.git
+
+devel@pi4-20:~ $ less pico_w-bt/.git/config
+
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = https://github.com/develone/pico_w-bt.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master        
+
+Afer the make is done on system1 pi4-30: 
+
+devel@pi4-30:~/xx/pico_w-bt/build $ pwd
+/home/devel/xx/pico_w-bt/build
+
+The build from pi4-30 xx/pico_bt/build needs to be copied 
+pi4-30 ~/pico_bt/build and pi4-20 ~/pico_bt/build
+
+devel@pi4-30:~ $ rsync -avl --delete xx/pico_w-bt/build pico_w-bt/        
+        
+devel@pi4-30:~ $ rsync -avl --delete xx/pico_w-bt/build pi4-20:~/pico_w-bt/        
+ 
+pi4-30 server
+The server needs to be ran before the client.
+
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer/picow_bt_example_spp_streamer_background.elf verify reset exit"
+
+pi4-20 client
+
+devel@pi4-20:~/pico_w-bt/build $ 
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer_client/picow_bt_example_spp_streamer_client_background.elf verify reset exit"
+
+BTstack up and running on 28:CD:C1:01:35:6B.
+Starting inquiry scan..
+Peer found: 28:CD:C1:01:35:6F
+Stopping inquiry scan..
+testing
+Start to connect and query for SPP service
+SDP query done, channel 0x01.
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+ 
+devel@pi4-30:~/pico-examples/build $
+
+openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program blink/blink.elf verify reset exit"
+
+
+        
+        

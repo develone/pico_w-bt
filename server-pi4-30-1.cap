@@ -1,0 +1,470 @@
+BTstack up and running on 28:CD:C1:01:35:6F.
+test if this source of spp_streamer.c 
+RFCOMM channel 0x01 requested for 28:CD:C1:01:35:6B
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_

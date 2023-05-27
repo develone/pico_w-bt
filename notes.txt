@@ -2,7 +2,22 @@ I removed many of the pico-examples in the top CMakeLists.txt.
 Using a local pico-sdk instead of the pico-sdk located in ~/sdk/pico-sdk.
 In the .bashrc sets export PICO_SDK_PATH=/home/devel/sdk/pico-sdk
 This needs to be overridden with export PICO_SDK_PATH=/home/devel/xx/pico_w-bt/pico-sdk
+env
+PICO_SDK_PATH=/home/devel/xx/pico_w-bt/pico-sdk
 
+devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example $ pwd
+/home/devel/xx/pico_w-bt/pico-sdk/lib/btstack/example
+commit 0d212321a995ed2f9a80988f73ede854c7ad23b8 (HEAD)
+Author: Dirk Helbig <dirk@bluekitchen-gmbh.com>
+Date:   Tue Jan 31 14:47:16 2023 +0100
+
+    btstack_sample_rate_compensation: refactoring and documentation
+
+commit 555ade44f7e3f0d03187a4007b8751cfc3ae043a
+Author: Dirk Helbig <dirk@bluekitchen-gmbh.com>
+Date:   Tue Jan 31 14:38:20 2023 +0100
+
+    a2dp_sink_demo: add HAVE_BTSTACK_AUDIO_EFFECTIVE_SAMPLERATE
 Trying to put the ~/sdk/pico-sdk/lib/btstack/example folder where it can be modified.
 
 git clone git clone git@github.com:develone/pico_w-bt.git
@@ -32,11 +47,20 @@ Submodule path 'lib/lwip': checked out '239918ccc173cb2c2a62f41a40fd893f57faf1d6
 Submodule path 'lib/mbedtls': checked out 'a77287f8fa6b76f74984121fdafc8563147435c8'
 Submodule path 'lib/tinyusb': checked out '86c416d4c0fb38432460b3e11b08b9de76941bf5'
 
-pico_w-bt/pico-sdk/lib/btstack $ git diff
+devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example $ git diff
 diff --git a/example/spp_streamer.c b/example/spp_streamer.c
-index 12f139a92..19361c2ac 100644
+index 12f139a92..5a88dcf17 100644
 --- a/example/spp_streamer.c
 +++ b/example/spp_streamer.c
+@@ -160,7 +160,7 @@ static void spp_create_test_data(void){
+ 
+ static void spp_send_packet(void){
+     rfcomm_send(rfcomm_cid, (uint8_t*) test_data, spp_test_data_len);
+-
++       printf("test in send spp_streamer.c \n");
+     test_track_transferred(spp_test_data_len);
+ #if 0
+     if (data_to_send <= spp_test_data_len){
 @@ -207,6 +207,7 @@ static void packet_handler (uint8_t packet_type, uint16_t channel, uint8_t *pack
                      rfcomm_event_incoming_connection_get_bd_addr(packet, event_addr);
                      rfcomm_channel_nr = rfcomm_event_incoming_connection_get_server_channel(packet);
@@ -45,6 +69,26 @@ index 12f139a92..19361c2ac 100644
                      printf("RFCOMM channel 0x%02x requested for %s\n", rfcomm_channel_nr, bd_addr_to_str(event_addr));
                      rfcomm_accept_connection(rfcomm_cid);
                                         break;
+@@ -253,14 +254,15 @@ static void packet_handler (uint8_t packet_type, uint16_t channel, uint8_t *pack
+                         
+         case RFCOMM_DATA_PACKET:
+             test_track_transferred(size);
+-#if 0
++//#if 0
+             // optional: print received data as ASCII text
++                       int i;
+             printf("RCV: '");
+-            for (i=0;i<size;i++){
++            for (i=0;i<10;i++){
+                 putchar(packet[i]);
+             }
+             printf("'\n");
+-#endif
++//#endif
+             break;
+ 
+         default:
+
 
 cd ../
 
@@ -119,3 +163,47 @@ pi4-30  28:CD:C1:01:35:6F
 pi4-50  43:43:A2:12:1F:AC
 pi4-60  28:CD:C1:08:17:20
 
+05/25/23
+pi4-60 is where the code was built
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = git@github.com:develone/pico_w-bt.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+
+pi4-60	ba1	dc:a6:32:09:35:23
+
+
+test if this source of spp_streamer.c 
+RFCOMM channel 0x01 requested for 43:43:A2:12:1F:AC
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+test in send spp_streamer.c 
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+
+pi4-50	ba1	dc:a6:32:27:e2:20
+
+BTstack up and running on 43:43:A2:12:1F:AC.
+Starting inquiry scan..
+Peer found: 28:CD:C1:08:17:20
+Stopping inquiry scan..
+testing
+Start to connect and query for SPP service
+SDP query done, channel 0x01.
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686
+test in send spp_streamer_client.c 
+test in send spp_streamer_client.c 
+test in send spp_streamer_client.c 
+test in send spp_streamer_client.c 
+test in send spp_streamer_client.c 
+RCV: '0123456789'
+RCV: '0123456789'

@@ -1,0 +1,1940 @@
+BTstack up and running on 28:CD:C1:01:35:6B.
+Starting inquiry scan..
+Peer found: 28:CD:C1:01:35:6F
+Stopping inquiry scan..
+testing
+Start to connect and query for SPP service
+SDP query done, channel 0x01.
+RFCOMM channel open succeeded. New RFCOMM Channel ID 0x01, max frame size 1686
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+522000 bytes -> 174.000 kB/s
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+507000 bytes -> 168.438 kB/s
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+RCV: '0123456789'
+RCV: '0123456789'
+RCV: '0123456789'
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/example
+test in send spp_streamer_client.c 
+this file is being modified on 05/26/23
+copied to devel@pi4-60:~/xx/pico_w-bt/pico-sdk/lib/btstack/ex
