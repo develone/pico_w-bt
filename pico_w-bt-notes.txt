@@ -177,7 +177,12 @@ pi4-30 ~/pico_bt/build and pi4-20 ~/pico_bt/build
 devel@pi4-30:~ $ rsync -avl --delete xx/pico_w-bt/build pico_w-bt/        
         
 devel@pi4-30:~ $ rsync -avl --delete xx/pico_w-bt/build pi4-20:~/pico_w-bt/        
- 
+
+pi4-60  & pi4-50 build
+
+devel@pi4-60:~ $ rsync -avl --delete xx/pico_w-bt/build pico_w-bt/
+
+devel@pi4-60:~ $ rsync -avl --delete xx/pico_w-bt/build pi4-50:~/pico_w-bt/
 pi4-30 server
 The server needs to be ran before the client.
 
