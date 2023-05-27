@@ -8,6 +8,21 @@ cd xx
 
 git clone https://github.com/develone/pico_w-bt.git
 
+commit eceb8cbeaaa9194ea14e64a0e31220efb5517ab1 (HEAD -> master, origin/master, origin/HEAD)
+Author: Edward Vidal Jr <develone@sbcglobal.net>
+Date:   Sat May 27 10:42:08 2023 -0600
+[core]
+        repositoryformatversion = 0
+        filemode = true
+        bare = false
+        logallrefupdates = true
+[remote "origin"]
+        url = https://github.com/develone/pico_w-bt.git
+        fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "master"]
+        remote = origin
+        merge = refs/heads/master
+
 cd pico_w-bt
 
 devel@pi4-30:~/xx/pico_w-bt $ git log
