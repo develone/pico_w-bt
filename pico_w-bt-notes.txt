@@ -127,7 +127,7 @@ cd build
 
 devel@pi4-30:~/xx/pico_w-bt/build $ export PICO_SDK_PATH=/home/devel/xx/pico_w-bt/pico-sdk
 
-devel@pi4-30:~/xx/pico_w-bt/build $ cmake -DPICO_BOARD=pico_w -DWIFI_SSID="ATTtpHTfPi" -DWIFI_PASSWORD="t?bqxvcqh#6t" -DFREERTOS_KERNEL_PATH:PATH=/home/devel/FreeRTOS-Kernel ..
+devel@pi4-30:~/xx/pico_w-bt/build $ cmake -DPICO_BOARD=pico_w -DWIFI_SSID="your wifi ssid" -DWIFI_PASSWORD="your wifi password" -DFREERTOS_KERNEL_PATH:PATH=/home/devel/FreeRTOS-Kernel ..
 devel@pi4-30:~/xx/pico_w-bt/build $ cmake -DPICO_BOARD=pico_w -DFREERTOS_KERNEL_PATH:PATH=/home/devel/FreeRTOS-Kernel ..
 
 devel@pi4-30:~/xx/pico_w-bt/build $ make
