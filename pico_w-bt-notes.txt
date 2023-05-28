@@ -185,12 +185,14 @@ devel@pi4-60:~ $ rsync -avl --delete xx/pico_w-bt/build pico_w-bt/
 devel@pi4-60:~ $ rsync -avl --delete xx/pico_w-bt/build pi4-50:~/pico_w-bt/
 pi4-30 server
 The server needs to be ran before the client.
-
+devel@pi4-30:~/pico_w-bt/build $ ../spp-server-start.sh or devel@pi4-60:~/pico_w-bt/build $ ../spp-server-start.sh
+The above commands can be used in place of calling openocd.
 openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer/picow_bt_example_spp_streamer_background.elf verify reset exit"
 
 pi4-20 client
 
-devel@pi4-20:~/pico_w-bt/build $ 
+devel@pi4-20:~/pico_w-bt/build $ ../spp-client-start.sh or devel@pi4-50:~/pico_w-bt/build $ ../spp-client-start.sh 
+The above commands can be used in place of calling openocd.
 openocd -f interface/raspberrypi-swd.cfg -f target/rp2040.cfg -c "program pico_w/bt/spp_streamer_client/picow_bt_example_spp_streamer_client_background.elf verify reset exit"
 
 BTstack up and running on 28:CD:C1:01:35:6B.
